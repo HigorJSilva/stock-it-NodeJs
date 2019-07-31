@@ -1,5 +1,5 @@
 # stock-it NodeJs
-Backend simples para aplicação de estoque em tepo real
+Backend simples para aplicação de estoque em tempo real
 
 ## Recursos
 Express para criação da API (abstrações de rotas e middlewares)
